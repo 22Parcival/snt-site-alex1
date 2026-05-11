@@ -20,10 +20,10 @@ Ce guide vous explique comment récupérer et lancer le site internet sur votre 
 *(Si vous avez des difficultés, référez-vous aux captures d'écran ci-dessous)*
 
 ### Étape 1 : Télécharger
-![Capture - Bouton Téléchargement](./screenshots/download.png)
+![Capture - Bouton Téléchargement](/tuto/img-1-tuto.png)
 
 ### Étape 2 : Lancer le fichier
-![Capture - Fichier Index](./screenshots/index.png)
+![Capture - Fichier Index](/tuto/img-2-tuto.png)
 
 ---
 
